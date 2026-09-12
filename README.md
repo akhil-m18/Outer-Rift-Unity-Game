@@ -24,9 +24,6 @@ Outer Rift is a 2D pixel-art space shooter built using Unity and C# as part of m
 
 ## Screenshots
 
-### Main Menu
-![Main Menu](Screenshots/main-menu.png)
-
 ### Level Select
 ![Level Select](Screenshots/level-select.png)
 
